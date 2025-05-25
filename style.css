@@ -49,3 +49,13 @@ nav a {
   color: 595959;
   font-weight: bold;
 }
+
+#Storia {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+#Storia img {
+  width: 300px;
+  height: auto;
+}
