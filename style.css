@@ -50,12 +50,12 @@ nav a {
   font-weight: bold;
 }
 
-#ArtistieOpere {
+#artistieopere {
   display: flex;
   align-items: flex-start;
   gap: 20px;
 }
-#ArtistieOpere img {
+#artistieopere img {
   width: 200px;
   height: auto;
 }
