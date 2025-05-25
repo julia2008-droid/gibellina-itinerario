@@ -46,9 +46,12 @@ section#storia h2 {
 
 nav {
   background-color: #fff;
+  border: 2px solid #333;
   padding: 10px;
-  text-align: center;
-  border-bottom: 1px solid #ccc;
+  margin: 20px auto;
+  width: fit-content;
+  border-radious: 0px;
+  
 }
 
 nav ul {
