@@ -43,3 +43,16 @@ section#storia h2 {
   margin-bottom: 10px;
   text-align: center;
 }
+
+nav {
+  background-color: #fff;
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: darkred;
+}
