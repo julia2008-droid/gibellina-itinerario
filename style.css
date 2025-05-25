@@ -60,6 +60,16 @@ nav a {
   height: auto;
 }
 
+#cretto {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+#cretto img {
+  width: 400px;
+  height: auto;
+}
+  
 .fade-in {
   opacity: 0;
   transform: translateY(20px);
