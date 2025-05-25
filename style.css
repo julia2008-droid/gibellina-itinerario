@@ -69,3 +69,24 @@ nav a {
   width: 400px;
   height: auto;
 }
+
+body, p {
+  font-size: 18px;
+}
+
+.contenitore {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.contenitore img {
+  max-width: 100%;
+  height: auto;
+}
+
+.contenitore p {
+  flex: 1;
+  font-size: 18px;
+}
