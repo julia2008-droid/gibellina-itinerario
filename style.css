@@ -50,16 +50,6 @@ nav a {
   font-weight: bold;
 }
 
-#artistieopere {
-  display: flex;
-  align-items: flex-start;
-  gap: 20px;
-}
-#artistieopere img {
-  width: 400px;
-  height: auto;
-}
-
 #cretto {
   display: flex;
   align-items: flex-start;
