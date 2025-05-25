@@ -50,12 +50,12 @@ nav a {
   font-weight: bold;
 }
 
-#Storia {
+#Artisti e Opere {
   display: flex;
   align-items: flex-start;
   gap: 20px;
 }
-#Storia img {
+#Artisti e Opere img {
   width: 200px;
   height: auto;
 }
