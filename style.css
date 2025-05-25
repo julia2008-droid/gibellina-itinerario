@@ -53,6 +53,7 @@ nav a {
 #artistieopere {
   display: flex;
   align-items: flex-start;
+  flex-direction: row-reverse;
   gap: 20px;
 }
 #artistieopere img {
